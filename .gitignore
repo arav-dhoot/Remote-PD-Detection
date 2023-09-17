@@ -1,1 +1,5 @@
 **/.DS_Store
+absolute_keypoints/
+frames/
+segmented_images/
+probability_keypoints/
