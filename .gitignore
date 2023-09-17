@@ -3,3 +3,5 @@ absolute_keypoints/
 frames/
 segmented_images/
 probability_keypoints/
+JSON/
+skeleton_15/
